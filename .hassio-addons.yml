@@ -1,0 +1,9 @@
+---
+channel: stable
+addons:
+  hue-mqtt:
+    repository: hassio-addons/hue_mqtt_bridge
+    target: hue_mqtt_bridge
+    image: hassioaddons/unifi
+
+
